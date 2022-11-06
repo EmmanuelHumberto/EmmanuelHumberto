@@ -1,5 +1,1 @@
-![EmmanuelHumberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelHumberto&show_icons=true&theme=dark)
-![EmmanuelHumberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelHumberto&show_icons=true&theme=gruvbox)
-	![EmmanuelHumberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelHumberto&show_icons=true&theme=radical)
-![EmmanuelHumberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelHumberto&show_icons=true&theme=synthwave)
 	![EmmanuelHumberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelHumberto&show_icons=true&theme=highcontrast)
