@@ -2,7 +2,7 @@
 <h2>Ola! Bem vindo(a)!</h2>
 </div>
 
-Me chamo Emmanuel Humberto, sou técnico em eletrônica e adoro programação e IOT, trabalho com manutenção de placas e gosto de criar protótipo para automatizar pequenos processos. Aqui você irá encontar meus treinamento e projetos.
+Me chamo Emmanuel Humberto, sou técnico em eletrônica, adoro programação e IOT, trabalho com manutenção de placas e gosto de criar protótipo para automatizar pequenos processos. Aqui você irá encontar meus treinamento e projetos.
 
 <div align="center">
   <a href="https://github.com/EmmanuelHumberto">
