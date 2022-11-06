@@ -1,11 +1,12 @@
 
+
 <div align="center">
 	
 <h2>Ola! Bem vindo(a)!</h2>
 </div>
 
 <div style="display:inline"><br>
-<h4><p>Meu nome é Emmanuel Humberto, como técnico em eletrônica, abri caminho pelas vielas dos bits e bytes, nos aglomerados de silício das placas de circuito impresso. Dediquei muitas horas de estudos e exercício da eletrônica para desvendar a mágica por trás dos circuitos. Nessa jornada, sempre existiram áreas de sombra, partes inacessíveis que começam a se iluminar, com a convergência entre software e hardware. Um mundo incrível começa a ganhar forma a cada mergulho no universo da programação.. Aqui irá encontrar meu treinamentos e  projetos.</p></h4>
+<h4><p> Como técnico em eletrônica, abri caminho pelas vielas dos bits e bytes nos aglomerados de silício das placas de circuito impresso. Dediquei horas de estudos e exercício da eletrônica para desvendar a mágica por trás dos circuitos. Nessa jornada deparei com áreas de sombra, partes inacessíveis que começam a se iluminar, a cada mergulho no universo da programação.</p></h4>
 </div>
 
 
