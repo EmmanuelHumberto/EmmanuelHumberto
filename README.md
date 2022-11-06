@@ -1,17 +1,9 @@
-
-
 <div align="center">
-	
 <h2>Ola! Bem vindo(a)!</h2>
 </div>
-
-<div style="display:inline"><br>
+<div style="display:inline">
 <h4><p> Como técnico em eletrônica, abri caminho pelas vielas dos bits e bytes nos aglomerados de silício das placas de circuito impresso. Dediquei horas de estudos e exercício da eletrônica para desvendar a mágica por trás dos circuitos. Nessa jornada deparei com áreas de sombra, partes inacessíveis que começam a se iluminar, a cada mergulho no universo da programação.</p></h4>
-</div>
-
-
-
-
+</div><br>
 <div align="center">
    <a href="https://github.com/EmmanuelHumberto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelHumberto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
