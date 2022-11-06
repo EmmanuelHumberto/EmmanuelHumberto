@@ -28,7 +28,7 @@ Me chamo Emmanuel Humberto, sou técnico em eletrônica, adoro programação e I
 
 <div style="display:inline_block"align="center"><br>
 
-<h5>Você também pode visitar meu perfil no Linkedin e na Alura.</h5><br>
+<h5>Você também pode visitar meu perfil no Linkedin e na Alura.</h5>
  
   <a href="https://www.linkedin.com/in/emmanuel-humberto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://cursos.alura.com.br/user/emmanuel-humberto/" target="_blank"><img src="https://img.shields.io/badge/-Alura-%230077B5?style=for-the-badge&logo=Alura&logoColor=white" target="_blank"></a> 
