@@ -2,7 +2,9 @@
 <h2>Ola! Bem vindo(a)!</h2>
 </div>
 
-##### Me chamo Emmanuel Humberto, sou técnico em eletrônica, adoro programação e IOT, trabalho com manutenção de placas e gosto de criar protótipos para automatizar pequenos processos. Aqui você irá encontar meus treinamento e projetos.
+##### Me chamo Emmanuel Humberto, sou técnico em eletrônica e estudo ciência da computação.
+Gosto d programaçã 
+o e tenho interesse em microcontroladores, IOT e embarcados. Tenho um projeto que se chama Ligado Tattoo que é uma assistência técnica em equipamentos de tatuagem além de realizar manutenção em máquina e equipamentos gosto de criar protótipos para automatizar pequenos processos. Aqui você irá encontar alguns dos meus treinamento e projetos.
 
 <div align="center">
   <a href="https://github.com/EmmanuelHumberto">
