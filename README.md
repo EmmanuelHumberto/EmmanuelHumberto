@@ -10,52 +10,26 @@ Gosto de criar protótipos funcionais e ferramentas que ajudem a entender melhor
 
 Aqui você encontrará projetos, estudos, treinamentos e experimentos, principalmente relacionados a sistemas embarcados, instrumentação, análise de dados e desenvolvimento de produto.
 <div align="center">
-  <a href="https://github.com/EmmanuelHumberto"></a>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelHumberto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelHumberto&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
-<div style="display:inline_block" align="center"><br>
-  <img align="center" alt="emmanue-c" height="30" width="40"
+  <img alt="C" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-  <img align="center" alt="emmanue-cplusplus" height="30" width="40"
+  <img alt="C++" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-  <img align="center" alt="emmanue-qt" height="30" width="40"
+  <img alt="Qt" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-
-  <img align="center" alt="emmanue-arduino" height="30" width="40"
+  <img alt="Arduino" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-
-  <img align="center" alt="emmanue-linux" height="30" width="40"
+  <img alt="Linux" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-  <img align="center" alt="emmanue-java" height="30" width="40"
+  <img alt="Java" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  <img align="center" alt="emmanue-php" height="30" width="40"
+  <img alt="PHP" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
-  <img align="center" alt="emmanue-go" height="30" width="40"
+  <img alt="Go" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-
-  <img align="center" alt="emmanue-git" height="30" width="40"
+  <img alt="Git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="JavaScript" heigh
 
-  <img align="center" alt="emmanue-js" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <img align="center" alt="emmanue-vue" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-
-  <img align="center" alt="emmanue-html" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-  <img align="center" alt="emmanue-css" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
 
 
 <h5>Você também pode visitar meu perfil no Linkedin e na Alura.</h5>
