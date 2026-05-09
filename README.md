@@ -41,7 +41,4 @@ Aqui você encontrará projetos, estudos, treinamentos e experimentos, principal
   
   &nbsp;&nbsp;&nbsp;
   
-  <a href="https://cursos.alura.com.br/user/emmanuel-humberto" target="_blank">
-    <img src="https://img.shields.io/badge/Alura-00A3E0?style=for-the-badge&logo=alura&logoColor=white" alt="Alura">
-  </a>
-</div>
+ 
