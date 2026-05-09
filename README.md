@@ -33,7 +33,7 @@ Aqui você encontrará projetos, estudos, treinamentos e experimentos, principal
 <br>
 
 <div align="center">
-  <h5>Você também pode visitar meu perfil no LinkedIn e na Alura.</h5>
+  <h5>Você também pode visitar meu perfil no LinkedIn.</h5>
   
   <a href="https://www.linkedin.com/in/emmanuel-humberto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
