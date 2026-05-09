@@ -2,13 +2,9 @@
   <h2>Olá! Bem vindo(a)!</h2>
 </div>
 
-Me chamo Emmanuel Humberto, sou técnico em eletrônica e estudo Ciência da Computação. Tenho interesse em programação, sistemas embarcados, microcontroladores, IoT e instrumentação aplicada.
+Me chamo Emmanuel Humberto, sou técnico em eletrônica e enho interesse em sistemas embarcados, microcontroladores, IoT e instrumentação aplicada.
 
-Sou fundador da Ligado Tattoo, empresa brasileira que atua desde 2021 com manutenção técnica de equipamentos de tatuagem e dermografia. A partir da experiência prática em assistência técnica, iniciei o desenvolvimento de soluções próprias envolvendo hardware, firmware e software, com foco em análise técnica, medições e automação de processos.
-
-Gosto de criar protótipos funcionais e ferramentas que ajudem a entender melhor o funcionamento de equipamentos eletromecânicos, transformando problemas reais do dia a dia em soluções técnicas aplicadas.
-
-Aqui você encontrará projetos, estudos, treinamentos e experimentos, principalmente relacionados a sistemas embarcados, instrumentação, análise de dados e desenvolvimento de produto.
+Aqui você encontrará projetos, treinamentos e experimentos.
 
 <table align="center">
   <tr>
